@@ -28,6 +28,7 @@ Aquí encontrarás una mezcla de proyectos académicos y personales que reflejan
 - Instagram: [@yahwthani](https://www.instagram.com/yahwthani/)
 - Credly: [Yahwthani Morales Gómez](https://www.credly.com/users/yahwthani-morales-g-mez)
 - HackerRank: [Yahwthani MG](https://www.hackerrank.com/profile/h0246038)
+- LeetCode: [YahwthaniMG](https://leetcode.com/u/YahwthaniMG/)
 
 ## 💭 Frase favorita
 
