@@ -28,7 +28,7 @@ Aquí encontrarás una mezcla de proyectos académicos y personales que reflejan
 ## 📫 Contáctame
 
 - LinkedIn: [Yahwthani Morales Gómez](https://www.linkedin.com/in/yahwthani-morales-292499310/)
-- Instagram: [@yahwthanimg](https://www.instagram.com/yahwthanimg)
+- Instagram: [@yahwthanimg](https://www.instagram.com/yahwthani/)
 
 ## 💭 Frase favorita
 
