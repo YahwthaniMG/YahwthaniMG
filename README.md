@@ -2,7 +2,7 @@
 
 ## 💻 Sobre mí
 
-Soy un estudiante apasionado de Ingeniería en Sistemas y Gráficas Computacionales en la Universidad Panamericana, campus Guadalajara. A mis 20 años, estoy en constante búsqueda de nuevos desafíos y oportunidades para crecer en el mundo de la tecnología.
+Soy un estudiante apasionado de Ingeniería en Sistemas y Gráficas Computacionales en la Universidad Panamericana, campus Guadalajara. A mis 21 años, estoy en constante búsqueda de nuevos desafíos y oportunidades para crecer en el mundo de la tecnología.
 
 - 🎓 Estudiante de Ingeniería en Sistemas y Gráficas Computacionales
 - 🏫 Universidad Panamericana, Guadalajara
