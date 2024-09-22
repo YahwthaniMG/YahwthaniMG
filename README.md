@@ -27,6 +27,7 @@ Aquí encontrarás una mezcla de proyectos académicos y personales que reflejan
 - LinkedIn: [Yahwthani Morales Gómez](https://www.linkedin.com/in/yahwthani-morales-292499310/)
 - Instagram: [@yahwthani](https://www.instagram.com/yahwthani/)
 - Credly: [Yahwthani Morales Gómez](https://www.credly.com/users/yahwthani-morales-g-mez)
+- HackerRank: [Yahwthani MG](https://www.hackerrank.com/profile/h0246038)
 
 ## 💭 Frase favorita
 
