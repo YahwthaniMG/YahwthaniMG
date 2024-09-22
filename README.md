@@ -21,14 +21,12 @@ Aquí encontrarás una mezcla de proyectos académicos y personales que reflejan
 
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=YahwthaniMG&layout=compact&theme=radical)
 
-## 📈 Actividad
-
-![Gráfico de actividad](https://activity-graph.herokuapp.com/graph?username=YahwthaniMG&theme=github)
 
 ## 📫 Contáctame
 
 - LinkedIn: [Yahwthani Morales Gómez](https://www.linkedin.com/in/yahwthani-morales-292499310/)
-- Instagram: [@yahwthanimg](https://www.instagram.com/yahwthani/)
+- Instagram: [@yahwthani](https://www.instagram.com/yahwthani/)
+- Credly: [Yahwthani Morales Gómez](https://www.credly.com/users/yahwthani-morales-g-mez)
 
 ## 💭 Frase favorita
 
