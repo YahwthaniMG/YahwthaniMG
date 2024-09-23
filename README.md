@@ -32,7 +32,7 @@ Aquí encontrarás una mezcla de proyectos académicos y personales que reflejan
 
 ## 💭 Frase favorita
 
-> "La lógica te llevará de A a B. La imaginación te llevará a todas partes." - Albert Einstein
+> "La lógica te llevará de A a B. La imaginación te llevará a todas partes." - Albert Einstein.
 
 ---
 
