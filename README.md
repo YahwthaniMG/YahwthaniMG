@@ -17,9 +17,9 @@ Here you'll find a mix of academic and personal projects that reflect my journey
 
 ## 📊 GitHub Stats
 
-[![Stats de GitHub](https://github-stats-extended.vercel.app/api/?username=YahwthaniMG&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Yahwthani's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=YahwthaniMG&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Yahwthani's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+![Stats de GitHub](https://github-stats-extended.vercel.app/api/?username=YahwthaniMG&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Yahwthani's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=YahwthaniMG&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Yahwthani's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
-[![Top Lenguajes](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4)
+![Top Lenguajes](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=6)
 
 ## 🔧 Languages and Tools
 
