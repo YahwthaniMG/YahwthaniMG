@@ -17,8 +17,8 @@ Here you'll find a mix of academic and personal projects that reflect my journey
 
 ## 📊 GitHub Stats
 
-[![Stats de GitHub](https://github-stats-extended.vercel.app/api?username=YahwthaniMG)](https://github.com/stats-organization/github-stats-extended)
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=YahwthaniMG&layout=compact&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+[![Stats de GitHub](https://github-stats-extended.vercel.app/api/?username=YahwthaniMG&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Yahwthani's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=YahwthaniMG&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Yahwthani's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+[![Top Lenguajes](https://github-stats-extended.vercel.app/api/top-langs/?username=YahwthaniMG&langs_count=4)
 
 ## 🔧 Languages and Tools
 
